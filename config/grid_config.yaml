@@ -1,0 +1,50 @@
+# binseg:
+#   model: ["l1", "l2", "rbf"]
+#   pen:
+#     min: 0.1
+#     max: 10000
+#     multiplier: 10
+#   jump:
+#     min: 10
+#     max: 100
+#     step: 30
+# bottomup:
+#   model: ["l1", "l2", "rbf"]
+#   pen:
+#     min: 0.1
+#     max: 10000
+#     multiplier: 10
+#   jump:
+#     min: 10
+#     max: 100
+#     step: 30
+# window:
+#   model: ["l1", "l2", "rbf"]
+#   pen:
+#     min: 0.1
+#     max: 10000
+#     multiplier: 10
+#   jump:
+#     min: 10
+#     max: 100
+#     step: 30
+# pelt:
+#   model: ["l1", "l2", "rbf"]
+#   pen:
+#     min: 0.1
+#     max: 10000
+#     multiplier: 10
+#   jump:
+#     min: 10
+#     max: 100
+    # step: 30
+kernel:
+  model: ["linear", "rbf", "cosine"]
+  pen:
+    min: 0.1
+    max: 10000
+    multiplier: 10
+  jump:
+    min: 10
+    max: 100
+    step: 30

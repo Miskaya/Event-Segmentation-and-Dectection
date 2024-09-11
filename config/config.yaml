@@ -1,0 +1,80 @@
+corsano_wrist_acc_x:
+    distance: "euclidean_distance"
+corsano_wrist_acc_y:
+    distance: "euclidean_distance"
+corsano_wrist_acc_z:
+    distance: "euclidean_distance"
+cosinuss_ear_acc_x:
+    distance: "euclidean_distance"
+cosinuss_ear_acc_y:
+    distance: "euclidean_distance"
+cosinuss_ear_acc_z:
+    distance: "euclidean_distance"
+sensomative_bottom_val_1:
+    distance: "euclidean_distance"
+sensomative_bottom_val_2:
+    distance: "euclidean_distance"
+sensomative_bottom_val_3:
+    distance: "euclidean_distance"
+sensomative_bottom_val_4:
+    distance: "euclidean_distance"
+sensomative_bottom_val_5:
+    distance: "euclidean_distance"
+sensomative_bottom_val_6:
+    distance: "euclidean_distance"
+sensomative_bottom_val_7:
+    distance: "euclidean_distance"
+sensomative_bottom_val_8:
+    distance: "euclidean_distance"
+sensomative_bottom_val_9:
+    distance: "euclidean_distance"
+sensomative_bottom_val_10:
+    distance: "euclidean_distance"
+sensomative_bottom_val_11:
+    distance: "euclidean_distance"
+sensomative_bottom_val_12:
+    distance: "euclidean_distance"
+sensomative_back_val_1:
+    distance: "euclidean_distance"
+sensomative_back_val_2:
+    distance: "euclidean_distance"
+sensomative_back_val_3:
+    distance: "euclidean_distance"
+sensomative_back_val_4:
+    distance: "euclidean_distance"
+sensomative_back_val_5:
+    distance: "euclidean_distance"
+sensomative_back_val_6:
+    distance: "euclidean_distance"
+sensomative_back_val_7:
+    distance: "euclidean_distance"
+sensomative_back_val_8:
+    distance: "euclidean_distance"
+sensomative_back_val_9:
+    distance: "euclidean_distance"
+sensomative_back_val_10:
+    distance: "euclidean_distance"
+sensomative_back_val_11:
+    distance: "euclidean_distance"
+sensomative_back_val_12:
+    distance: "euclidean_distance"
+vivalink_patch_acc_x:
+    distance: "euclidean_distance"
+vivalink_patch_acc_y:
+    distance: "euclidean_distance"
+vivalink_patch_acc_z:
+    distance: "euclidean_distance"
+zurichmove_wheel_acc_x:
+    distance: "euclidean_distance"
+zurichmove_wheel_acc_y:
+    distance: "euclidean_distance"
+zurichmove_wheel_acc_z:
+    distance: "euclidean_distance"
+zurichmove_wheel_ang_vel_x:
+    distance: "euclidean_distance"
+zurichmove_wheel_ang_vel_y:
+    distance: "euclidean_distance"
+zurichmove_wheel_ang_vel_z:
+    distance: "euclidean_distance"
+
+
